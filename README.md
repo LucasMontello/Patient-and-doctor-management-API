@@ -1,1 +1,0 @@
-# Patient-and-doctor-management-API
